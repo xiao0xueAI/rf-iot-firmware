@@ -1,0 +1,12 @@
+{
+  "releases": [
+    {
+      "version": "2.3.3",
+      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v2.3.3/firmware-2.3.3.bin",
+      "sha256": "9A3FD53120796344EC0D8D04636B070E3FD8D5938A0AE78A7E3FF18B63A9CBBC",
+      "sig": "2B85DAFEAFC3E402EF817C11B912BA0582F32F6897D736EEC8FBF798D346AFA54D0B885B496393F340C390B87351716B54E88094DDF0B37A02A29E5E69284E94",
+      "size": 1132224,
+      "notes": "OTA 全流程验证版：面板一键升级、进度显示、升级结论明确记录"
+    }
+  ]
+}
