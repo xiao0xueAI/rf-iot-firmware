@@ -1,12 +1,12 @@
 {
   "releases": [
     {
-      "version": "2.3.3",
-      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v2.3.3/firmware-2.3.3.bin",
-      "sha256": "9A3FD53120796344EC0D8D04636B070E3FD8D5938A0AE78A7E3FF18B63A9CBBC",
-      "sig": "2B85DAFEAFC3E402EF817C11B912BA0582F32F6897D736EEC8FBF798D346AFA54D0B885B496393F340C390B87351716B54E88094DDF0B37A02A29E5E69284E94",
-      "size": 1132224,
-      "notes": "OTA 全流程验证版：面板一键升级、进度显示、升级结论明确记录"
+      "version": "2.3.5",
+      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v2.3.5/firmware-2.3.5.bin",
+      "sha256": "5535E34F8588EDFE0512630ABDBF3A2B46AA2C741C3BC2A1D4537A487964B01E",
+      "sig": "EE01E1EB49F183626DA340E57698CBE764C748C7BF2D37DC91EBED53E6CE05C47BAC37CC63F495BC0F25621527A19F3F5C49D0921B50006C1419893D74551102",
+      "size": 1135776,
+      "notes": "修复：设备没有实时时钟导致 HTTPS 证书校验失败（无法从互联网下载固件）"
     }
   ]
 }
