@@ -1,12 +1,12 @@
 {
   "releases": [
     {
-      "version": "2.3.5",
-      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v2.3.5/firmware-2.3.5.bin",
-      "sha256": "5535E34F8588EDFE0512630ABDBF3A2B46AA2C741C3BC2A1D4537A487964B01E",
-      "sig": "EE01E1EB49F183626DA340E57698CBE764C748C7BF2D37DC91EBED53E6CE05C47BAC37CC63F495BC0F25621527A19F3F5C49D0921B50006C1419893D74551102",
-      "size": 1135776,
-      "notes": "修复：设备没有实时时钟导致 HTTPS 证书校验失败（无法从互联网下载固件）"
+      "version": "2.3.6",
+      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v2.3.6/firmware-2.3.6.bin",
+      "sha256": "05381E4BBE032B33253158BF1E5EEE0FC473BBB60651D151425B7CA79D3FE8E7",
+      "sig": "E9844F7515CF325EF48E77D4C69705D891DE642945848C25FA801D87A9FDA02510F3879330180572A14DA9E50468542EDF708366006260F21B2AD76074161BF7",
+      "size": 1135136,
+      "notes": "停用 CAME 生成功能（协议非公开标准）；修复 HTTPS 证书校验（设备时钟）"
     }
   ]
 }
