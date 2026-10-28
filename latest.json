@@ -1,6 +1,15 @@
 {
-  "latest": "0.9.23",
+  "latest": "0.9.24",
   "releases": [
+    {
+      "version": "0.9.24",
+      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v0.9.24/firmware-0.9.24.bin",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-firmware/releases/assets/684444101",
+      "sha256": "6826806E8308B193FEC09CAF51F4BF06173FE8FCFD3B0C4B0C341E022C20290C",
+      "sig": "088DEF6AB85595804CD848BC3D7F1E5A538FE12732500024F5491B301A52089C4DEB82912D0F231D02E64C3EE75586251E007B78B8BFC9B2053C04A4D62CA1BD",
+      "size": 1137728,
+      "notes": "修一个小问题：升级结束后不再显示上一次残留的错误提示。"
+    },
     {
       "version": "0.9.23",
       "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v0.9.23/firmware-0.9.23.bin",
