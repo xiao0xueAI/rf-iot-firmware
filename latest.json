@@ -1,6 +1,15 @@
 {
-  "latest": "0.9.21",
+  "latest": "0.9.23",
   "releases": [
+    {
+      "version": "0.9.23",
+      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v0.9.23/firmware-0.9.23.bin",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-firmware/releases/assets/684405098",
+      "sha256": "286FC458F8F76CE174F416235C49DA76AB1F91E4219E616733EE2E8C77596AEE",
+      "sig": "FC0A8A2D1D2AF1F35061C6CB9EEA9D8DF7076554E776DFA1F5C9CA568A354D59557CD3AE7D1E87E7DA8C38147C580245FAB6CA6A07F6E30AB030DF6AA081C24D",
+      "size": 1137712,
+      "notes": "回滚保护完善：新固件连不上服务器被自动退回时，会明确显示"
+    },
     {
       "version": "0.9.21",
       "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v0.9.21/firmware-0.9.21.bin",
