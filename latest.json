@@ -1,5 +1,15 @@
 {
+  "latest": "0.9.19",
   "releases": [
+    {
+      "version": "0.9.19",
+      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v0.9.19/firmware-0.9.19.bin",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-firmware/releases/assets/684149552",
+      "sha256": "E30B4112C6B2D2DC36523CCEF1A2CE583487A5CC5D228F06ACBB50F02DD5DC01",
+      "sig": "BAEA6538CA1B769ED822C86C506277131B42AB760ED612A2957CC57C04EE7441DAD03637DF9B243DE5E0AAC940D7F42B84590C9B5297584939070E3F01286CC1",
+      "size": 1136912,
+      "notes": "升级更稳：网络抖动时会自动多试几次再判定失败；顺带优化升级过程中的提示。"
+    },
     {
       "version": "0.9.12",
       "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v0.9.12/firmware-0.9.12.bin",
@@ -19,6 +29,5 @@
       "size": 1136848,
       "notes": "修同版本重刷误判（分区判据）"
     }
-  ],
-  "latest": "0.9.12"
+  ]
 }
