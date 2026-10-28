@@ -26,6 +26,16 @@
       "sig": "D51E4D6F51C63511F55EDF47599C047F3E5F2A2AF5CA79EFA85409C01CA6259748D406AE526A8D792656B2ADF14B99CCD1FC48693AA2951D0B88871BF295AB66",
       "size": 1136288,
       "notes": "提升升级稳定性"
+    },
+    {
+      "version": "0.9.12",
+      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v0.9.12/firmware-0.9.12.bin",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-firmware/releases/assets/683980596",
+      "sha256": "EC7204C65B2F3B8EC28351DCC34CA9B9E6C7AA86E70E379C6CC1CCB8427DC538",
+      "sig": "8A14BF2E3E8E4EE8EA861D7DE20E5B63A4A17724551143760D7E06C211B42FA822CA3AB0D0C189301B75393BBEF1F7B39BF86887B15303C3A29BAEB6CE970B33",
+      "size": 1136896,
+      "notes": "版本号规范化（0.x 测试版）+ 红外/Zigbee 入口",
+      "force": true
     }
   ]
 }
