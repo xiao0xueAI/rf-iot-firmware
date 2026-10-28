@@ -1,6 +1,16 @@
 {
-  "latest": "0.9.13",
+  "latest": "0.9.14",
   "packages": [
+    {
+      "version": "0.9.14",
+      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/panel-v0.9.14/panel-0.9.14.json",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-firmware/releases/assets/684059501",
+      "sha256": "1BC462BDD146E7F3CAD685879A68733C6FF9E7E9A6588678035EF02C0B704D28",
+      "sig": "F5F3160A2A245C9807071C4FEA23E301B485C1327DD40C06F879E242B16748BF28A118F3FC818047599EF565A74118674D31F7D67A2DF53E5F0B0F472E1658BA",
+      "size": 602665,
+      "notes": "面板自更新：每天自动检查、用户点一下才更新；顶部通栏提示 + 侧边栏版本号",
+      "minServer": "0.9.12"
+    },
     {
       "version": "0.9.13",
       "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/panel-v0.9.13/panel-0.9.13.json",
