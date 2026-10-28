@@ -1,6 +1,15 @@
 {
   "releases": [
     {
+      "version": "2.4.10",
+      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v2.4.10/firmware-2.4.10.bin",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-firmware/releases/assets/683709061",
+      "sha256": "9611A10D57BAFB5EDC645B939E558C58C372394B0AF58602663B1FF2EB71F627",
+      "sig": "B39E1AA829C4A6358A22ED6B5F086C156CDED29FDE86FBFF2C8711F0011A236EEC3CB9FEE37B77A73C7276B418C11B09470A0033E7F15CC6A1DE061E1D5DDC27",
+      "size": 1136592,
+      "notes": "修 OTA 三处：指令截断 / 302 跳转 / 长地址发送缓冲"
+    },
+    {
       "version": "2.4.8",
       "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v2.4.8/firmware-2.4.8.bin",
       "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-firmware/releases/assets/683575956",
