@@ -1,12 +1,12 @@
 {
   "releases": [
     {
-      "version": "2.4.6",
-      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v2.4.6/firmware-2.4.6.bin",
-      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-firmware/releases/assets/680753312",
-      "sha256": "D59B1AE676DFA6B2C44DDA5BC6EE242675E35957C1E2670068359D8002C3E119",
-      "sig": "90873EE70B2AC8CA88B79AFD3483BC63210042D5E29B0857CA3B00E028279A7E940B274C9A247D3C87DC86BA2A42C50C7557EAEC71422B009F9795D840EEAE39",
-      "size": 1136272,
+      "version": "2.4.8",
+      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v2.4.8/firmware-2.4.8.bin",
+      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-firmware/releases/assets/683575956",
+      "sha256": "C915902756AD62C4F5562F7D44B342FB3D41934C9C1A2B0A2B9995DDC98519D7",
+      "sig": "D51E4D6F51C63511F55EDF47599C047F3E5F2A2AF5CA79EFA85409C01CA6259748D406AE526A8D792656B2ADF14B99CCD1FC48693AA2951D0B88871BF295AB66",
+      "size": 1136288,
       "notes": "提升升级稳定性"
     }
   ]
