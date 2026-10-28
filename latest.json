@@ -18,24 +18,6 @@
       "sig": "BE0759AC8A9713A13D2CAD9EC99675339916AFC2C1CD1254ED312561CB0C1A0DC616BD1611887491292782FAF2CBA1B18CC6C9B8CBC2B3B7BF788B148624C9FD",
       "size": 1136848,
       "notes": "修同版本重刷误判（分区判据）"
-    },
-    {
-      "version": "2.4.10",
-      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v2.4.10/firmware-2.4.10.bin",
-      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-firmware/releases/assets/683709061",
-      "sha256": "9611A10D57BAFB5EDC645B939E558C58C372394B0AF58602663B1FF2EB71F627",
-      "sig": "B39E1AA829C4A6358A22ED6B5F086C156CDED29FDE86FBFF2C8711F0011A236EEC3CB9FEE37B77A73C7276B418C11B09470A0033E7F15CC6A1DE061E1D5DDC27",
-      "size": 1136592,
-      "notes": "修 OTA 三处：指令截断 / 302 跳转 / 长地址发送缓冲"
-    },
-    {
-      "version": "2.4.8",
-      "url": "https://github.com/xiao0xueAI/rf-iot-firmware/releases/download/v2.4.8/firmware-2.4.8.bin",
-      "urlApi": "https://api.github.com/repos/xiao0xueAI/rf-iot-firmware/releases/assets/683575956",
-      "sha256": "C915902756AD62C4F5562F7D44B342FB3D41934C9C1A2B0A2B9995DDC98519D7",
-      "sig": "D51E4D6F51C63511F55EDF47599C047F3E5F2A2AF5CA79EFA85409C01CA6259748D406AE526A8D792656B2ADF14B99CCD1FC48693AA2951D0B88871BF295AB66",
-      "size": 1136288,
-      "notes": "提升升级稳定性"
     }
   ],
   "latest": "0.9.12"
